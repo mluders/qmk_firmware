@@ -25,3 +25,6 @@
 	path = lib/lvgl
 	url = https://github.com/qmk/lvgl.git
 	branch = release/v8.2
+[submodule "keyboards/qmk_miles"]
+	path = keyboards/qmk_miles
+	url = git@github.com:mluders/qmk_miles.git
